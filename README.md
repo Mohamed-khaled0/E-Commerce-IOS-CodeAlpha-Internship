@@ -8,6 +8,8 @@
 ## Technologies Used:
 - Swift 
 - Swift UI
+- MVC Architecture 
+
 
 ## ScreenShots:
 
