@@ -20,10 +20,8 @@
   </p>
 
 
-## YouTube Shorts Demo 
-[Watch YouTube Shorts](https://youtube.com/shorts/r0UnPrAx10c)
-
-
+## YouTube Demo 
+[<img src="https://img.shields.io/badge/Watch%20on%20YouTube-red?style=for-the-badge&logo=youtube" alt="YouTube Demo" />](https://youtube.com/shorts/r0UnPrAx10c)
 
 
 
