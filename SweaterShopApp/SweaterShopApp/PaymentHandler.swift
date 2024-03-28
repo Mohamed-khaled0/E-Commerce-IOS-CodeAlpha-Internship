@@ -2,10 +2,9 @@
 //  PaymentHandler.swift
 //  SweaterShopApp
 //
-//  Created by Stephanie Diep on 2022-01-03.
+//  Created by Mohamed Khaled on 10/03/2024.
 //
 
-// Note: The code below was taken from the sample app from https://developer.apple.com/documentation/passkit/apple_pay/offering_apple_pay_in_your_app - shortened and adapted for this application
 
 import Foundation
 import PassKit

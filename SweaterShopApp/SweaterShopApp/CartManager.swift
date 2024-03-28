@@ -2,7 +2,7 @@
 //  CartManager.swift
 //  SweaterShopApp
 //
-//  Created by Stephanie Diep on 2022-01-03.
+//  Created by Mohamed Khaled on 10/03/2024.
 //
 
 import Foundation
